@@ -1,4 +1,4 @@
-## Projects:
+## Projects
 
 <ul>
   {% for post in site.posts %}
