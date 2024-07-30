@@ -1,9 +1,9 @@
 ## Members
 
 <ul>
-  {% for post in site.posts %}
+  {% for fac in site.faculty %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ fac.url }}">{{ fac.title }}</a>
     </li>
   {% endfor %}
 </ul>
