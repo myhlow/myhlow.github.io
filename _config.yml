@@ -1,4 +1,5 @@
-theme: jekyll-theme-midnight
+remote_theme: chrisrhymes/bulma-clean-theme
+#theme: jekyll-theme-midnight
 title: "SIT Systems Section (S3)"
 description: "A Research Group from the SIT ICT Cluster"
 
